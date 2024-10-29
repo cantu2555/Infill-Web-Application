@@ -1,21 +1,20 @@
-# Infill-Web-Application
+
 Infill Incentive Package Calculator  
-<h1> Diabetes Prediction </h1>
+<h1> Infill Web Application </h1>
 
  
 
 <h2>Description</h2>
-Welcome to our Diabetes Prediction Project – a initiative poised to optimize healthcare analytics. Our project encompasses a wide array of health indicators, from age and gender to critical markers like BMI, hypertension, and heart disease status. We delve into smoking history, HbA1c levels, and blood glucose data to offer a comprehensive view of patients' health profiles.
+This calculator is tailored for infill incentive applicants, helping property developers and investors evaluate potential financial benefits associated with their projects. It provides estimates for property tax rebates, construction material tax rebates, and construction permit fee rebates over either a 5-year or 10-year period based on the property type (e.g., brownfield or greyfield).
 
-Our goal is crystal clear: to empower healthcare professionals in identifying individuals at risk of diabetes, enabling the development of personalized treatment plans. By leveraging advanced predictive modeling techniques, we aim to proactively intervene in the progression of diabetes, ultimately contributing to better patient outcomes.
-
+In addition to precise rebate calculations, the tool generates a 20% range above and below each value, allowing users to consider both conservative and optimistic financial projections. This flexible estimation range aids applicants in making well-informed decisions about potential incentives.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Jupyter Lab</b>
+
 
 <h2>Environments Used </h2>
 
